@@ -2,6 +2,7 @@
 # REPTE 3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
 
 Autor: Lisbett Jhoaysa Arcani
+
 Assignatura: Cultura Digital aula 1
 
 ## Plantejament
